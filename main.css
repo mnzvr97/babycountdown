@@ -16,4 +16,32 @@ header {
     align-items: center;
     text-align: center;
     min-height: 100vh;
+
+    background-image: url('background.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+h1 {
+    color: #FFF;
+    font-size: 55px;
+    font-weight: 900;
+}
+
+span {
+    font-weight: 400;
+}
+
+h2 {
+    color: #FFF;
+    font-size: 75px;
+    font-weight: 900;
+    margin: 30px 0px;
+
+}
+
+.countdown {
+    color:rgb(255, 255, 255);
+    font-size: 55px;
+    font-weight: 650;
 }
